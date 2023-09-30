@@ -2,8 +2,6 @@
  
 render.com :- https://placement-cell-mongoose7.onrender.com/
 
-Absolutely! Here's another summary with a fresh twist for connecting to MongoDB Atlas, sprinkled with emojis:
-
 🌟 MongoDB Atlas Connection Made Easy 🌐
 
 1. 📦 **Get Ready**: Install Mongoose and require it in your Node.js application.
